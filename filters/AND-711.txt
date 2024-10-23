@@ -1,0 +1,6 @@
+[Adblock Plus 2.0]
+! Title: AND-711
+! Version: 202410231231
+! Last modified: 23 Oct 2024 12:31 UTC
+! Expires: 7 Days
+*$domain=https://example.com
